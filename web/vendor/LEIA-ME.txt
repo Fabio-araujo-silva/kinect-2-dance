@@ -1,0 +1,12 @@
+MediaPipe Tasks Vision 1.2.3 (pacote npm @mediapipe/tasks-vision)
+https://github.com/google-ai-edge/mediapipe
+Licença: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+
+Arquivos copiados sem modificação:
+  vision_bundle.mjs
+  wasm/vision_wasm_internal.js
+  wasm/vision_wasm_internal.wasm
+
+Modelos em ../modelos/ (Apache 2.0), baixados de storage.googleapis.com/mediapipe-models:
+  pose_landmarker_lite.task -> pose_lite.task
+  pose_landmarker_full.task -> pose_full.task
